@@ -1,5 +1,7 @@
 # Koncepty loga PyJam
 
+> Archiv prvního kola. Aktuální vítěz: [druhé kolo — trojúhelníková čepice s notou](kolo2/README.md).
+
 Zadal **Honza dne 2. 11. 2026 přes Clauda** pro veřejný web `R0bbik/pyjam-web`. Návrhy, výběr a ruční SVG zpracoval Codex dne 2. 11. 2026. Zadání: pyžamo/noční košile + hudba, jednoduchý symbol bez textu, nejvýše tři barvy, použitelný v 16 px a 120 × 120 px.
 
 ![Čtyři koncepty na světlém a tmavém pozadí, včetně velikostí 16, 28 a 64 px](prehled.png)
